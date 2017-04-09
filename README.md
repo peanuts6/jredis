@@ -19,3 +19,9 @@
 * https://redis.io/topics/protocol
 * 命令参考
 * http://doc.redisfans.com/
+
+## 后面的大体计划
+* 完全兼容redis命令
+* 实现持久化功能
+* 合并jcache
+* 实现集群功能
